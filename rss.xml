@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rss version="2.0">
+  <channel>
+    <title>Era Wrote an RSS Feed</title>
+    <description>A list of updates to Era Does Things</description>
+    <link>https://era-the-outworlder.github.io/</link>
+    <category domain="www.dmoz.com">Computers/Software/Internet/Site Management/Content Management</category>
+    <copyright>Copyright 2022 Erinn Reimann</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 8 Aug 2022 00:00:00 -0700</lastBuildDate>
+    <managingEditor>era@outworlderaffairs.com</managingEditor>
+    <pubDate>Sun, 8 Aug 2022 00:00:00 -0700</pubDate>
+    <webMaster>era@outworlderaffairs.com</webMaster>
+    <image>
+      <url></url>
+      <title>Era's RSS Feed</title>
+      <link></link>
+      <description>Era's RSS Feed</description>
+      <width>48</width>
+      <height>48</height>
+    </image>
+
+    <item>
+     <title>HELP_tale Flowey, f_lowe_y</title>
+    <description>Rebuilt in YAYA, f_lowe_y has several new and improved functions.<b><i><br> </b></i><br> Updates Include:<br> <i><font color="#FF0000">Network Updates<br> User Stats<br> Mood System (in development)</i></font></description>
+    <link>https://era-the-outworlder.github.io/f_lowe_y.html</link>
+    <category domain="www.dmoz.com">Computers/Software/Internet/Site Management/Content Management</category>
+    <comments>http://www.feedforall.com/forum</comments>
+    <pubDate>Tue, 19 Oct 2004 11:09:09 -0400</pubDate>
+    </item>
+   
+  </channel>
+</rss>
