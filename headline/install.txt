@@ -1,0 +1,4 @@
+charset,ASCII
+type,headline
+name,Outworlder Updates
+directory,theoutworlder

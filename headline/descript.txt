@@ -1,0 +1,6 @@
+charset,UTF-8
+type,rss
+name,Outworlder Updates
+url,https://era-the-outworlder.github.io/
+feed,https://era-the-outworlder.github.io/rss.xml
+homeurl,https://raw.githubusercontent.com/Era-The-Outworlder/era-the-outworlder_github_io/main/headline/

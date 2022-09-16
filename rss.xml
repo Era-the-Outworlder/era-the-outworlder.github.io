@@ -13,21 +13,21 @@
     <pubDate>Sun, 8 Aug 2022 00:00:00 -0700</pubDate>
     <webMaster>era@outworlderaffairs.com</webMaster>
     <image>
-      <url></url>
+      <url>https://era-the-outworlder.github.io/rss_logo.png</url>
       <title>Era's RSS Feed</title>
       <link></link>
       <description>Era's RSS Feed</description>
-      <width>48</width>
-      <height>48</height>
+      <width>45</width>
+      <height>45</height>
     </image>
 
     <item>
       <title>HELP_tale Flowey, f_lowe_y</title>
-      <description>Rebuilt in YAYA, f_lowe_y has several new and improved functions.<br><b>Updates Include:</b><br><br><font color="#FF0000">Network Updates<br> User Stats<br> Mood System (in development)</i></font></description>
+      <description>Rebuilt in YAYA, f_lowe_y has several new and improved functions.<br><b>Updates Include:</b><br><br><font color="#FF0000">Network Updates<br> User Stats<br> Mood System (in development)</font></description>
       <link>https://era-the-outworlder.github.io/f_lowe_y.html</link>
       <category domain="www.dmoz.com">Computers/Software/Internet/Site Management/Content Management</category>
       <comments>http://www.feedforall.com/forum</comments>
-      <pubDate>Tue, 19 Oct 2004 11:09:09 -0400</pubDate>
+      <pubDate>Sun, 8 Aug 2022 00:00:00 -0700</pubDate>
     </item>
    
   </channel>
